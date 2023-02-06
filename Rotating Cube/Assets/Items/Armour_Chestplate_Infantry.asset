@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 381c4bcb41c9c7442959fa0305ed8b6f, type: 3}
-  m_Name: Amrour_Chestplate_Infantry
+  m_Name: Armour_Chestplate_Infantry
   m_EditorClassIdentifier: 
   itemType: 2
   icon: {fileID: 21300000, guid: cfcb86bc13d79b14abca1f18ef7b14f9, type: 3}
