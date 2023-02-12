@@ -51,7 +51,7 @@ public class InventoryManager : MonoBehaviour, IPointerEnterHandler, IPointerDow
     {
         selectedItem = DragNDrop.currentSlot.parentInventory.inventory[DragNDrop.selectedSlotIndex];
         //if we are dragging an item
-        if (DragNDrop.currentDrag != null)
+        if (DragNDrop.currentDrag.itemType != ItemType.none)
         {
             //if the inventory slot we are placing the dragged item is empty
             if (selectedItem.itemName == "Empty")

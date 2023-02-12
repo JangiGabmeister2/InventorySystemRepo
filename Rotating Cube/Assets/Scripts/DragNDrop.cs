@@ -31,7 +31,7 @@ public class DragNDrop : MonoBehaviour
 
     private void Start()
     {
-        dragImage = getComponentImage;
+        dragImage = getComponentImage;        
     }
 
     private void Update()
