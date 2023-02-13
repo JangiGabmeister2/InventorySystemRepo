@@ -9,15 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 381c4bcb41c9c7442959fa0305ed8b6f, type: 3}
-  m_Name: EmptySlot
+  m_Script: {fileID: 11500000, guid: 4838d6a86271a0b4f93c7992cde2cedb, type: 3}
+  m_Name: NewTimer
   m_EditorClassIdentifier: 
-  itemType: 0
-  icon: {fileID: 21300000, guid: 009e0e3e0130c5b4f8d11a774074c73b, type: 3}
-  itemId: 
-  itemName: 
-  itemDesc: 
-  isStackable: 0
-  stackMax: 0
-  stackCurrent: 0
-  cost: 0
+  seconds: 4.5324206
+  minute: 10
